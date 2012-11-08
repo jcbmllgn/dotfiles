@@ -82,3 +82,11 @@
 [user]
 	name = Epicgrim
 	email = nathanlil13@me.com
+
+# Default behavior for pushing
+[push]
+	default = matching
+
+# OSX save username and password	
+[credential]
+	helper = osxkeychain
